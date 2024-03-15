@@ -1,1 +1,1 @@
-# Employee-Attrition
+# Employee-Attrition Embedding Project
